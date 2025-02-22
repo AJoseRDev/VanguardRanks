@@ -5,35 +5,9 @@ Se configuro el plugin [VanguardRanks](https://www.spigotmc.org/resources/vangua
 ## Contenido
 Tiene un total de 20 Ranks
 
-Lista de los 27 tags:
+Lista de los 20 ranks:
 
-- zGen
-- Aventurero
-- Minero 
-- Asesino
-- Toxic
-- Insano
-- Guerrero
-- Mago
-- Leyenda
-- Sigiloso
-- Fantasma
-- Demonio
-- Inmortal
-- Nostalgico
-- Visionario
-- Fenix
-- Forjador
-- Gladiador
-- Exiliado
-- Pirata 
-- Corrupto
-- Saqueador
-- Caballero
-- Rebelde
-- Ilusionista
-- Trotamundos
-- Sapo
+- etc
 
 ## Dependencias
 Para el correcto funcionamiento del plugin se necesita
